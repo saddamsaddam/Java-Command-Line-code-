@@ -1,0 +1,326 @@
+
+01957@saddamnvn MINGW64 ~/Downloads/UniverityProject
+$ javac EcsSim.java -d bin
+error: file not found: EcsSim.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+
+01957@saddamnvn MINGW64 ~/Downloads/UniverityProject
+$ cd src
+
+01957@saddamnvn MINGW64 ~/Downloads/UniverityProject/src
+
+$ javac EcsSim.java -d bin
+
+
+01957@saddamnvn MINGW64 ~/Downloads/UniverityProject/src
+
+$ javac facilities/*.java -d bin
+
+
+01957@saddamnvn MINGW64 ~/Downloads/UniverityProject/src
+
+$ javac university/*.java -d bin
+
+
+01957@saddamnvn MINGW64 ~/Downloads/UniverityProject/src
+
+$ javac facilities/buildings/*.java -d bin
+
+
+01957@saddamnvn MINGW64 ~/Downloads/UniverityProject/src
+
+
+$ java -classpath bin EcsSim staff.txt 600 3
+
+
+Year 1 Simulation:
+Budget: 200.0 ECScoins
+Reputation: 150 points
+Evaluating Ardyn for Year 1:
+Evaluating Bahamut for Year 1:
+Evaluating Gilgamesh for Year 1:
+Evaluating Necron for Year 1:
+Evaluating Ultimecia for Year 1:
+Evaluating Nael Deus Darnus for Year 1:
+Total Salary for Year 1: 16.233662 ECScoins
+Year 2 Simulation:
+Budget: -200.0 ECScoins
+Reputation: 300 points
+Evaluating Ardyn for Year 2:
+Evaluating Bahamut for Year 2:
+Evaluating Gilgamesh for Year 2:
+Evaluating Necron for Year 2:
+Evaluating Ultimecia for Year 2:
+Evaluating Nael Deus Darnus for Year 2:
+Total Salary for Year 2: 33.68358 ECScoins
+Year 3 Simulation:
+Budget: -600.0 ECScoins
+Reputation: 450 points
+Evaluating Ardyn for Year 3:
+Evaluating Bahamut for Year 3:
+Evaluating Gilgamesh for Year 3:
+Evaluating Necron for Year 3:
+Evaluating Ultimecia for Year 3:
+Evaluating Nael Deus Darnus for Year 3:
+Total Salary for Year 3: 50.54401 ECScoins
+Year 4 Simulation:
+Budget: -1000.0 ECScoins
+Reputation: 600 points
+Evaluating Ardyn for Year 4:
+Evaluating Bahamut for Year 4:
+Evaluating Gilgamesh for Year 4:
+Evaluating Necron for Year 4:
+Evaluating Ultimecia for Year 4:
+Evaluating Nael Deus Darnus for Year 4:
+Total Salary for Year 4: 67.27932 ECScoins
+Year 5 Simulation:
+Budget: -1400.0 ECScoins
+Reputation: 750 points
+Evaluating Ardyn for Year 5:
+Evaluating Bahamut for Year 5:
+Evaluating Gilgamesh for Year 5:
+Evaluating Necron for Year 5:
+Evaluating Ultimecia for Year 5:
+Evaluating Nael Deus Darnus for Year 5:
+Total Salary for Year 5: 83.86125 ECScoins
+Year 6 Simulation:
+Budget: -1800.0 ECScoins
+Reputation: 900 points
+Evaluating Ardyn for Year 6:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 6:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 6:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 6:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 6:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 6:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 6: 101.058105 ECScoins
+Year 7 Simulation:
+Budget: -2200.0 ECScoins
+Reputation: 1050 points
+Evaluating Ardyn for Year 7:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 7:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 7:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 7:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 7:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 7:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 7: 117.87316 ECScoins
+Year 8 Simulation:
+Budget: -2600.0 ECScoins
+Reputation: 1200 points
+Evaluating Ardyn for Year 8:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 8:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 8:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 8:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 8:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 8:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 8: 134.85628 ECScoins
+Year 9 Simulation:
+Budget: -3000.0 ECScoins
+Reputation: 1350 points
+Evaluating Ardyn for Year 9:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 9:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 9:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 9:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 9:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 9:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 9: 152.0904 ECScoins
+Year 10 Simulation:
+Budget: -3400.0 ECScoins
+Reputation: 1500 points
+Evaluating Ardyn for Year 10:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 10:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 10:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 10:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 10:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 10:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 10: 168.37204 ECScoins
+Year 11 Simulation:
+Budget: -3800.0 ECScoins
+Reputation: 1650 points
+Evaluating Ardyn for Year 11:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 11:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 11:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 11:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 11:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 11:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 11: 185.47084 ECScoins
+Year 12 Simulation:
+Budget: -4200.0 ECScoins
+Reputation: 1800 points
+Evaluating Ardyn for Year 12:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 12:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 12:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 12:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 12:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 12:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 12: 202.26953 ECScoins
+Year 13 Simulation:
+Budget: -4600.0 ECScoins
+Reputation: 1950 points
+Evaluating Ardyn for Year 13:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 13:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 13:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 13:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 13:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 13:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 13: 219.9269 ECScoins
+Year 14 Simulation:
+Budget: -5000.0 ECScoins
+Reputation: 2100 points
+Evaluating Ardyn for Year 14:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 14:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 14:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 14:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 14:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 14:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 14: 237.34337 ECScoins
+Year 15 Simulation:
+Budget: -5400.0 ECScoins
+Reputation: 2250 points
+Evaluating Ardyn for Year 15:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 15:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 15:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 15:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 15:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 15:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 15: 254.63834 ECScoins
+Year 16 Simulation:
+Budget: -5800.0 ECScoins
+Reputation: 2400 points
+Evaluating Ardyn for Year 16:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 16:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 16:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 16:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 16:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 16:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 16: 272.06525 ECScoins
+Year 17 Simulation:
+Budget: -6200.0 ECScoins
+Reputation: 2550 points
+Evaluating Ardyn for Year 17:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 17:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 17:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 17:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 17:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 17:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 17: 289.17233 ECScoins
+Year 18 Simulation:
+Budget: -6600.0 ECScoins
+Reputation: 2700 points
+Evaluating Ardyn for Year 18:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 18:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 18:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 18:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 18:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 18:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 18: 306.43713 ECScoins
+Year 19 Simulation:
+Budget: -7000.0 ECScoins
+Reputation: 2850 points
+Evaluating Ardyn for Year 19:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 19:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 19:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 19:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 19:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 19:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 19: 323.27573 ECScoins
+Year 20 Simulation:
+Budget: -7400.0 ECScoins
+Reputation: 3000 points
+Evaluating Ardyn for Year 20:
+Ardyn has been teaching for 5 or more years.
+Evaluating Bahamut for Year 20:
+Bahamut has been teaching for 5 or more years.
+Evaluating Gilgamesh for Year 20:
+Gilgamesh has been teaching for 5 or more years.
+Evaluating Necron for Year 20:
+Necron has been teaching for 5 or more years.
+Evaluating Ultimecia for Year 20:
+Ultimecia has been teaching for 5 or more years.
+Evaluating Nael Deus Darnus for Year 20:
+Nael Deus Darnus has been teaching for 5 or more years.
+Total Salary for Year 20: 340.2636 ECScoins
